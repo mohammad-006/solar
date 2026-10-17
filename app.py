@@ -79,7 +79,7 @@ div[data-testid="stAlert"] {
 
 /* تحسين الشريط الجانبي */
 [data-testid="stSidebar"] {
-    background: var(--bg-soft);
+    background: #0e1117;
     border-left: 1px solid var(--card-border);
 }
 </style>
